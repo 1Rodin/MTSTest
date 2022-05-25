@@ -16,4 +16,4 @@ ORDER BY ClientName desc, MONTH(p."Date")
 
 
 
-[POST] - название таблицы, писать create и insert сюда не стал
+[Post] - название таблицы, писать create и insert сюда не стал
