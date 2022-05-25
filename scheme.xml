@@ -1,0 +1,31 @@
+<city>Москва
+<line>
+    3<startLine>Щелковская</startLine>
+    <endline>Пятницкое шоссе</endline>
+    <stationInfo>
+        <name>Щелковская</name>
+        <start>true</start>
+        <previous>null</previous>
+        <next>Первомайская</next>
+        <timetoNext>4min</timetoNext>
+        <intersection>false</intersection>
+    </stationInfo>
+        <stationInfo>
+        <name>Первомайская</name>
+        <start>false</start>
+        <previous>Щелковская</previous>
+        <next>Измайловская</next>
+        <timetoNext>4min</timetoNext>
+        <intersection>false</intersection>
+    </stationInfo>
+    ...................................
+        <stationInfo>
+        <name>Курская</name>
+        <start>false</start>
+        <previous>Бауманская</previous>
+        <next>Площадь Революции</next>
+        <timetoNext>4min</timetoNext>
+        <intersection>true<line>5</line><line>10</line><line>D2</line></intersection>
+    </stationInfo>
+    ..................................
+</line></city>
